@@ -45,7 +45,7 @@ title: 海伯利安诗篇
   </div>
 
 <script>
-    var book = ePub("https://res.cloudinary.com/hppcggqdk/raw/upload/v1556030851/blog-docu/books/Dan%20Simmons/%E6%B5%B7%E4%BC%AF%E5%88%A9%E5%AE%89%E5%9B%9B%E9%83%A8%E6%9B%B2_%E9%87%8D%E6%8E%92%E5%BC%B9%E6%B3%A8.epub");
+    var book = ePub("blob:https://sleepy-sammet-b3f255.netlify.com/6675292d-afe5-4486-9dab-db2ffb193a21");
      var rendition = book.renderTo("viewer", {
       flow: "scrolled-doc",
       width: "100%"
