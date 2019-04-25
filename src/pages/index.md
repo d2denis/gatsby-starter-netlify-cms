@@ -1,57 +1,43 @@
 ---
-templateKey: 'index-page'
-title: 'Great coffee with a conscience'
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+templateKey: index-page
+title: 泥塑的书房
+image: /img/chemex.jpg
+heading: 奇葩，洗脑，猎奇，狂想，鬼畜
+subheading: 开放注释的电子书收集站
 mainpitch:
-  title: Why Kaldi
-  description: >
-      Kaldi is the coffee store for everyone who believes that
-      great coffee shouldn't just taste good, it should do good
-      too. We source all of our beans directly from small scale
-      sustainable farmers and make sure part of the profits are
-      reinvested in their communities.
+  title: Why Epubjs？
+  description: >-
+    Today, Hypothesis and our partners, NYU Press and NYU Libraries, the Readium
+    Foundation, Evident Point and EPUB.js, are announcing the world’s first
+    open-source, standards-based annotation capability in an EPUB viewer — or
+    rather two EPUB viewers, because we’re launching with identical
+    functionality in the two most popular open-source frameworks, Readium and
+    EPUB.js. For the first time, publishers and others now have a complete
+    annotation solution for all their content published in all three primary
+    digital formats: HTML, PDF and now, EPUB.
+description: >-
+  This means that anyone who wants to make an annotatable EPUB available can do
+  so using their choice of reading frameworks, giving readers the ability to
+  take personal notes, group notes or have public discussions on top of the
+  fastest growing web standard text format.
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+    - image: /img/septener新纪元运动xxi.jpg
+      text: >-
+        Try annotating yourself in these live examples: in Moby Dick, delivered
+        with Readium, and in the same book delivered with EPUB.js. 
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Also, if cross-format identifiers like DOIs are used, annotations made in
+    one format (eg, EPUB) can be seen in the same document published in other
+    formats (eg, HTML, PDF) and in other locations. All annotation capabilities
+    of Hypothesis, including groups, markup, rich media, math support, and more
+    are now available across all three formats — HTML, PDF, and EPUB. For
+    example, annotation groups active in different formats and different
+    locations can be available to group members on the same documents accessed
+    anywhere. Annotations that users make in EPUBs are searchable and
+    discoverable together with all their annotations made in other documents and
+    formats.
 main:
   heading: Great coffee with no compromises
   description: >
@@ -60,51 +46,13 @@ main:
     journey. We personally visit each farm to make sure the conditions are
     optimal for the plants, farmers and the local environment.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Pagan symbols
+    image: /img/1024px-pagan_religions_symbols.svg.png
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: New Age Movement
+    image: /img/newage.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
-testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
-pricing:
-  heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
-  plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
-      items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
-      items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '??'
+    alt: Coexist
+    image: /img/tenor.gif
 ---
 
