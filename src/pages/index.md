@@ -21,11 +21,7 @@ description: >-
   take personal notes, group notes or have public discussions on top of the
   fastest growing web standard text format.
 intro:
-  blurbs:
-    - image: /img/septener新纪元运动xxi.jpg
-      text: >-
-        Try annotating yourself in these live examples: in Moby Dick, delivered
-        with Readium, and in the same book delivered with EPUB.js. 
+  blurbs: []
   heading: What we offer
   description: >
     Also, if cross-format identifiers like DOIs are used, annotations made in
