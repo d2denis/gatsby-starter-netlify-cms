@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: 泥塑的书房
-image: /img/chemex.jpg
+image: /img/微信图片_20190603153314.jpg
 heading: 奇葩，洗脑，猎奇，狂想，鬼畜
 subheading: 开放注释的电子书收集站
 mainpitch:
